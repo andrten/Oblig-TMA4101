@@ -1,11 +1,11 @@
 ## TMA4101 oblig Andreas T
-## RC-Krets
+## RC-krets
 
 import matplotlib.pyplot as plt
 import numpy as np
 
 R = 100e3 # Ohm
-C = 100e-6 # Farhad
+C = 100e-6 # Farad
 RC = R*C
 
 # Teoretisk modell:
